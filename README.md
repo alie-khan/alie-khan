@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alie-khan
-- 👀 I’m interested in MERN Stack.
+- 👀 I’m interested in Reeact Js.
 - 🌱 I’m currently learning React Js Advancement
 - 💞️ I’m looking to collaborate on Charity
 - 📫 How to reach me ali.razakhanskt@gmail.com
