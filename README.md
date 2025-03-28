@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alie-khan
-- 👀 I’m interested in Reeact Js.
+- 👀 I’m interested in React Js.
 - 🌱 I’m currently learning React Js Advancement
-- 💞️ I’m looking to collaborate on Charity
+- 💞️ I’m looking for react job.
 - 📫 How to reach me ali.razakhanskt@gmail.com
 - 😄 Pronouns: Ali Khan
 - ⚡ Fun fact: Good Learner
